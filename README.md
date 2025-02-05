@@ -1,16 +1,13 @@
-## Hi there 👋
+<div id="title" align=center>
 
-<!--
-**PotatoNB666/PotatoNB666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoNB666&show_icons=true&theme=tokyonight)](https://b23.tv/qGv2cTa)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/讨厌-虫子-yellow) 
+![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/爱好-游戏-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+![Visitor Count](https://profile-counter.glitch.me/PotatoNB666/count.svg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=PotatoNB666.
